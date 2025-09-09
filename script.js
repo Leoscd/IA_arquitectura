@@ -66,7 +66,7 @@ async function handleFormSubmit(event) {
         
         // Opcional: redirigir a Calendly después de un breve delay
         setTimeout(() => {
-            window.open('https://calendly.com/leodiazdt/30min', '_blank');
+            window.open('https://calendly.com/leodiazdt/consultas', '_blank');
         }, 2000);
         
     } catch (error) {
