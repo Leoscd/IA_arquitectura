@@ -4,8 +4,8 @@ Esta es la landing page del programa "IA en Arquitectura: Transformando Flujos d
 
 ## Características del Programa
 
-- **Duración:** 8 encuentros durante un mes completo
-- **Modalidad:** 2 clases de 1.5 horas por semana  
+- **Duración:** 10 encuentros en 6 semanas de curso
+- **Modalidad:** Programa intensivo de implementación práctica  
 - **Enfoque:** Casos personalizados en los últimos encuentros
 - **Garantía:** Seguimiento hasta optimizar 10+ horas semanales
 
